@@ -9,7 +9,7 @@ import ru.ronin52.dpr.model.KnowledgeBaseItemType;
 @AllArgsConstructor
 @NoArgsConstructor
 public class KnowledgeBaseDto {
-    private String point;
-    private String text;
-    private KnowledgeBaseItemType type;
+    private String pointId;
+    private String pointText;
+    private KnowledgeBaseItemType pointType;
 }
