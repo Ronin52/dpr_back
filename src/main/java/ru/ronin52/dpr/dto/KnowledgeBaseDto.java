@@ -11,5 +11,5 @@ import ru.ronin52.dpr.model.KnowledgeBaseItemType;
 public class KnowledgeBaseDto {
     private String point;
     private String text;
-    private KnowledgeBaseItemType end;
+    private KnowledgeBaseItemType type;
 }
